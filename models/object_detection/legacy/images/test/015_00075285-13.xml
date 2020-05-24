@@ -1,0 +1,33 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>015_00075285-13.jpg</filename>
+  <source>
+    <database>labelme</database>
+    <annotation>labelme</annotation>
+    <image>labelme</image>
+  </source>
+  <size>
+    <width>2550</width>
+    <height>3300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>list</name>
+    <bndbox>
+      <xmin>270</xmin>
+      <ymin>320</ymin>
+      <xmax>1613</xmax>
+      <ymax>2901</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>section</name>
+    <bndbox>
+      <xmin>285</xmin>
+      <ymin>190</ymin>
+      <xmax>769</xmax>
+      <ymax>315</ymax>
+    </bndbox>
+  </object>
+</annotation>
